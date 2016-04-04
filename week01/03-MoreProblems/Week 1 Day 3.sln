@@ -1,0 +1,58 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.24720.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MaxScalarProduct", "Week 1 Day 3\MaxScalarProduct.csproj", "{A0FE70F9-4BAF-415F-92F3-5E3B7C72074D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MaximalSpan NotImplement !", "MaximalSpan\MaximalSpan NotImplement !.csproj", "{89D7760D-8121-4028-B4AC-77C3791A0588}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Birthday Ranges", "Birthday Ranges\Birthday Ranges.csproj", "{7CB1FA29-2F57-4D36-B4F1-52BACD47CFF1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Matrix Bombing", "Matrix Bombing\Matrix Bombing.csproj", "{B84CD94C-8343-46C8-BE17-761E9C3B84DD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IsTransversal", "IsTransversal\IsTransversal.csproj", "{2A519E59-6A96-45AE-A61B-E5B10A015BD4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ImageModifyer", "ImageModifyer\ImageModifyer.csproj", "{ACD2C8E5-79F1-49B4-A7D8-2D11CCC2AD8D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ImageModifer", "GrayScaleImage\ImageModifer.csproj", "{111C9612-50DF-4330-9158-DA6F84109C11}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A0FE70F9-4BAF-415F-92F3-5E3B7C72074D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A0FE70F9-4BAF-415F-92F3-5E3B7C72074D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A0FE70F9-4BAF-415F-92F3-5E3B7C72074D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A0FE70F9-4BAF-415F-92F3-5E3B7C72074D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{89D7760D-8121-4028-B4AC-77C3791A0588}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{89D7760D-8121-4028-B4AC-77C3791A0588}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{89D7760D-8121-4028-B4AC-77C3791A0588}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{89D7760D-8121-4028-B4AC-77C3791A0588}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7CB1FA29-2F57-4D36-B4F1-52BACD47CFF1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7CB1FA29-2F57-4D36-B4F1-52BACD47CFF1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7CB1FA29-2F57-4D36-B4F1-52BACD47CFF1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7CB1FA29-2F57-4D36-B4F1-52BACD47CFF1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B84CD94C-8343-46C8-BE17-761E9C3B84DD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B84CD94C-8343-46C8-BE17-761E9C3B84DD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B84CD94C-8343-46C8-BE17-761E9C3B84DD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B84CD94C-8343-46C8-BE17-761E9C3B84DD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2A519E59-6A96-45AE-A61B-E5B10A015BD4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2A519E59-6A96-45AE-A61B-E5B10A015BD4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2A519E59-6A96-45AE-A61B-E5B10A015BD4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2A519E59-6A96-45AE-A61B-E5B10A015BD4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ACD2C8E5-79F1-49B4-A7D8-2D11CCC2AD8D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ACD2C8E5-79F1-49B4-A7D8-2D11CCC2AD8D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ACD2C8E5-79F1-49B4-A7D8-2D11CCC2AD8D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ACD2C8E5-79F1-49B4-A7D8-2D11CCC2AD8D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{111C9612-50DF-4330-9158-DA6F84109C11}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{111C9612-50DF-4330-9158-DA6F84109C11}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{111C9612-50DF-4330-9158-DA6F84109C11}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{111C9612-50DF-4330-9158-DA6F84109C11}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
